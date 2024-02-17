@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ku-bti/static/css/main.ccb5988e.css",
+    "main.js": "/ku-bti/static/js/main.81e072a0.js",
+    "static/js/453.7f933025.chunk.js": "/ku-bti/static/js/453.7f933025.chunk.js",
+    "static/media/developer1.PNG": "/ku-bti/static/media/developer1.daa179d56ded97594b8f.PNG",
+    "index.html": "/ku-bti/index.html",
+    "main.ccb5988e.css.map": "/ku-bti/static/css/main.ccb5988e.css.map",
+    "main.81e072a0.js.map": "/ku-bti/static/js/main.81e072a0.js.map",
+    "453.7f933025.chunk.js.map": "/ku-bti/static/js/453.7f933025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb5988e.css",
+    "static/js/main.81e072a0.js"
+  ]
+}
