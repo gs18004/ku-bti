@@ -37,7 +37,7 @@ const DeveloperPage = ({ setClicked }) => {
           <button
             className="developer1-button-github"
             onClick={() => {
-              window.open("https://github.com/mintway0341");
+              window.open("https://github.com/gs18004");
             }}
           >
             <FontAwesomeIcon
